@@ -1,0 +1,16 @@
+{
+  "name": "pagpag",
+  "description": "Sistema de pagamento, FJ-36",
+  "version": "0.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": ">1.0.0",
+    "cookie-parser": ">1.0.1",
+    "ejs": ">0.8.5",
+    "express": "^4.13.0",
+    "express-load": "^1.1.14"
+  }
+}
